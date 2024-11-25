@@ -1,7 +1,7 @@
 # Design Assignment: Corporate Card Payment and Invoice Matching Dashboard  
 
 ## Objective  
-Design a dashboard that streamlines the process of managing SaaS payments made using corporate cards. The solution should cater to the needs of two primary user personas: **corporate card users** and the **accounts team**.  
+Design a dashboard(Desktop / Web) that streamlines the process of managing SaaS payments made using corporate cards. The solution should cater to the needs of two primary user personas: **corporate card users** and the **accounts team**.  
 
 ---
 
@@ -70,7 +70,7 @@ Corporate card users make payments for SaaS subscriptions and send their invoice
 
 ## Submission
 
-- Create a figa file for the project, and preferably a writeup on user stories, assumptions etc and send over the assignment solution to subham@pazy.io
+- Create a figma file for the project, and preferably a writeup on user stories, assumptions etc and send over the assignment solution to subham@pazy.io
 
 
 Good luck, and we look forward to seeing your creative solutions!
