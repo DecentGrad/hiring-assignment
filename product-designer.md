@@ -24,8 +24,7 @@ Corporate card users make payments for SaaS subscriptions and send their invoice
 
 3. **Edge Cases:**  
    - Address potential scenarios such as:  
-     - Missing invoices for a transaction.  
-     - Multiple invoices for a single transaction.  
+     - Missing invoices for a transaction. 
      - Mismatched amounts or dates.  
    - Provide a seamless way for users to **manually match** or resolve discrepancies.  
 
