@@ -66,4 +66,11 @@ Corporate card users make payments for SaaS subscriptions and send their invoice
 
 ---
 
+---
+
+## Submission
+
+- Create a figa file for the project, and preferably a writeup on user stories, assumptions etc and send over the assignment solution to subham@pazy.io
+
+
 Good luck, and we look forward to seeing your creative solutions!
